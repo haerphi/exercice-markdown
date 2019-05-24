@@ -3,7 +3,6 @@
 ## listes des membres  
 
 * Haerens Philippe
-<<<<<<< HEAD
 * Franco Lionel
 * Atta Jonathan
 * Martiny Cynthia  
@@ -33,6 +32,4 @@
 Ce travail de groupe a pour but de répertorier un maximum de MarkDown de base. Nous les avons listés dans un fichier mk.md en expliquant brièvement comment les inclures dans un document et nous avons également repertorié toutes les lignes de code à encoder dans le fichier syntaxe.md.  
 
 *Premier travail de groupe réalisé dans le cadre de la formation BeCode le 24 mai 2019.*
-=======
 * Martiny Cynthia
->>>>>>> Cyn
