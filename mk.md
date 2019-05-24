@@ -1,6 +1,6 @@
 ## Titres :
 <br>
-Les titres sont créés avec un certain nombre de # avant le titre, qui correspondent au niveau de titre souhaité (le HTML propose 6 niveaux de titres de ``<h1>`` à ``<h6>``)
+Les titres sont créés avec un certain nombre de # avant le titre, qui correspondent au niveau de titre souhaité (le HTML propose 6 niveaux de titres de ```<h1>``` à ```<h6>```)
 <br>
 # un titre de premier niveau
 #### un titre de quatrième niveau
