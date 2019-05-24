@@ -79,8 +79,8 @@ et ainsi de suite jusqu'à arriver au `<h6>` : `###### Titre`.
 ## Liens :
 <br>
 
-Il y a 2 façons de faire : 
-* Soit en écrivant directement le lien en ayant pour nom l'url. *Ex :* http://github.com 
+Il y a 2 façons de faire :
+* Soit en écrivant directement le lien en ayant pour nom l'url. *Ex :* http://github.com
 * Soit en donnant un nom au lien `[nom du lien]` qui, en cliquant dessus, vous dirigera vers l'url `(url)`;`[Github](http://github.com)`. *Ex :* [Github](http://github.com)
 
 ## Code
@@ -103,3 +103,9 @@ Il faut faire cela:
             }
         }
     ```
+
+
+    ####Réferences
+
+    * [readme.md](readme.md)
+    * [mk.md](mk.md)
