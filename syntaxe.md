@@ -2,19 +2,10 @@
 
 Pour écrire du code en Markdown avec une coloration syntaxique il faut le code entre avec le nom du langage.
 Exemple: <br>
-
-    ```php
-    <?php
-    $var = 12;
-    echo 'Var='.$var;
-    ?>
-    ```
-<br>
-Donne:
-<br>
-javascript
-    function fancyAlert(arg) {
-        if(arg) {
-            $.facebox({div:'#foo'})
-        }
-    }
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
