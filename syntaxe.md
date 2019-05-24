@@ -12,8 +12,10 @@ Exemple: <br>
 <br>
 Donne:
 <br>
-    php
-    <?php
-    $var = 12;
-    echo 'Var='.$var;
-    ?>
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
