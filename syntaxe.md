@@ -11,7 +11,9 @@ echo 'Var='.$var;
 ?>
 ```
 </code>
+<br>
 Donne:
+<br>
 ``` php
 <?php
 $var = 12;
