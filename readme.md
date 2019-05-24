@@ -9,11 +9,8 @@
 
 ### Sommaire  
 
-* readme.md
-  * Liste des membres
-  * Sommaire
-  * Synthèse
-* mk.md
+* [readme.md](readme.md)
+* [mk.md](mk.md)
   * Titres
   * Listes
     * Liste à puces
@@ -25,7 +22,7 @@
     * Image animée
   * Liens
   * Code
-* syntaxe.md  
+* [syntaxe.md](syntaxe.md)  
 
 #### Synthèse  
 
