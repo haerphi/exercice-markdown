@@ -13,8 +13,8 @@ Exemple: <br>
 Donne:
 <br>
 ```php
-<?php
-$var = 12;
-echo 'Var='.$var;
-?>
-```
+    <?php
+    $var = 12;
+    echo 'Var='.$var;
+    ?>
+``` 
