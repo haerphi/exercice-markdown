@@ -1,19 +1,11 @@
 
-# Syntaxe markdown  
+# Syntaxe markdown
 
-Syntaxe à utiliser afin d'ajouter une image:  
+## Les listes
 
-`![Alt](url)`  
+### Non ordonnées
 
-Une autre manière d'ajouter une image est:  
-
-`![Alt](/home/user/images/img.png)`  
-
-# Les listes
-
-## Non ordonnées
-
-on précéde chaque items par un asterisque "`*`".
+On précède chaque items par une astérisque "`*`".
 
 * Item 1
 * Item 2
@@ -21,9 +13,9 @@ on précéde chaque items par un asterisque "`*`".
   * Item 2b
 * Item 3
 
-## Ordonées
+### Ordonées
 
-Pour imbriquer des listes, on idente la seconde liste dans la première.  
+Pour imbriquer des listes, on indente la seconde liste dans la première.  
 
 1. Item 1
 1. Item 2
@@ -31,18 +23,18 @@ Pour imbriquer des listes, on idente la seconde liste dans la première.
    1. Item 3a
    1. Item 3b
 
-## Les liste de taches.
+### Les liste de taches.
 
-on crée ces llistes en les precedent de "`-[]`" pour des items non cochés et "`-[x]`" pour des items cochés.
+On crée ces listes en les précédant de "`-[]`" pour des items non cochés et "`-[x]`" pour des items cochés.
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-## Imbrication
+### Imbrication
 
-On imbrique des listes en les precedent par une identation propre a chaque listes.
+On imbrique des listes en les précédant par une indentation propre à chaque liste.
 
 * Item 1
 * Item 2
@@ -52,14 +44,23 @@ On imbrique des listes en les precedent par une identation propre a chaque liste
     - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
     - [x] list syntax required (any unordered or ordered list supported)
 * Item 3
+
+Syntaxe à utiliser afin d'ajouter une image:  
+
+`![Alt](url)`  
+
+Une autre manière d'ajouter une image est:  
+
+`![Alt](/home/user/images/img.png)`  
+
 ## Titres :
 <br>
 
 Voici comment créer plusieurs titres :<br>
 
 
-`# Titre`: équivaut à un `<h1>` en html <br>
-`## Titre`: équivaut à un `<h2>` en html<br>
+`# Titre`: équivaut à `<h1>` en html <br>
+`## Titre`: équivaut à `<h2>` en html<br>
 et ainsi de suite jusqu'à arriver au `<h6>` : `###### Titre`.
 <br>
 
@@ -75,8 +76,6 @@ et ainsi de suite jusqu'à arriver au `<h6>` : `###### Titre`.
 * Gras & souligné : `__**texte**__`
 * Italique, gras & souligné : `__***texte***__`
 
-<br>
-
 ## Liens :
 <br>
 
@@ -84,7 +83,6 @@ Il y a 2 façons de faire :
 * Soit en écrivant directement le lien en ayant pour nom l'url. *Ex :* http://github.com 
 * Soit en donnant un nom au lien `[nom du lien]` qui, en cliquant dessus, vous dirigera vers l'url `(url)`;`[Github](http://github.com)`. *Ex :* [Github](http://github.com)
 
-# Syntaxe markdown
 ## Code
 Pour écrire du code en Markdown avec une coloration syntaxique il faut le code entre avec le nom du langage. <br>
 Exemple: <br>
