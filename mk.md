@@ -1,11 +1,19 @@
-Unordered
+# Les listes
+
+Une liste est un ensemble fini d'éléments énumérés de manière séquentielle (les uns après les autres) dans un ordre signifiant ou sans ordre précis. C'est une manière simple et pratique d'organiser la pensée, souvent sous une forme matérielle écrite ou informatique. Umberto Eco distingue les listes pratiques (à la fonction référentielle) des listes poétiques (à la fonction de vertige grisant). Selon lui, les énumérations exhubérantes ont commencé à la Renaissance et se prolongent de nos jours dans les bibliothèques, « réceptacles » de listes. 1
+
+## Non ordonnées
+
+Les listes non ordonnées sont définies par une puces devant chaque items.
 
 * Item 1
 * Item 2
   * Item 2a
   * Item 2b
 
-Ordered
+## Ordonées
+
+Les listes ordonnées sont définies par un nombre devant chaque items lui assignant un ordre.
 
 1. Item 1
 1. Item 2
@@ -13,14 +21,16 @@ Ordered
    1. Item 3a
    1. Item 3b
 
-Task Lists
+## Les liste de taches.
+
+Les listes ordonnées sont définies par une case a coché devant chaque items lui assignant une tache effectuée ou non.
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-Tables
+## Tables
 You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |:
 
 First Header | Second Header
