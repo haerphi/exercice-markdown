@@ -19,6 +19,7 @@
     * Liste à puces
     * Liste numérotée
     * Listes imbriquées
+    * Liste de tâches
   * Images
     * Image statique
     * Image animée
