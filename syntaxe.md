@@ -1,6 +1,5 @@
-Syntaxe markdown
 
-**Titres :**
+## Titres :
 <br>
 
 Voici comment créer plusieurs titres :<br>
@@ -11,7 +10,7 @@ Voici comment créer plusieurs titres :<br>
 et ainsi de suite jusqu'à arriver au `<h6>` : `###### Titre`.
 <br>
 
-**Mise en forme :**<br>
+## Mise en forme :<br>
 
 
 * Gras : ``**texte**``<br>
@@ -25,7 +24,7 @@ et ainsi de suite jusqu'à arriver au `<h6>` : `###### Titre`.
 
 <br>
 
-**Liens :**
+## Liens :
 <br>
 
 Il y a 2 façons de faire : 
