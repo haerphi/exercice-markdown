@@ -107,5 +107,5 @@ Il faut faire cela:
     ```
 ### Réferences
 
-* [readme.md](readme.md)
 * [mk.md](mk.md)
+* [syntaxe.md](syntaxe.md)
