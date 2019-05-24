@@ -12,7 +12,7 @@ Exemple: <br>
 <br>
 Donne:
 <br>
-``` php
+```php
 <?php
 $var = 12;
 echo 'Var='.$var;
