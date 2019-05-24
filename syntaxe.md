@@ -1,7 +1,7 @@
 # Syntaxe markdown
 
 Pour écrire du code en Markdown avec une coloration syntaxique il faut le code entre <code>```</code> avec le nom du langage.
-Exemple:
+Exemple: <br>
 <code>
 ``` php
 <?php
