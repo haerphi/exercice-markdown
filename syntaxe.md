@@ -1,6 +1,6 @@
 Syntaxe markdown
 
-__**Titres :**__
+**Titres :**
 <br>
 
 Voici comment créer plusieurs titres :<br>
@@ -11,12 +11,12 @@ Voici comment créer plusieurs titres :<br>
 et ainsi de suite jusqu'à arriver au `<h6>` : `###### Titre`.
 <br>
 
-__**Mise en forme :**__<br>
+**Mise en forme :**<br>
 
 
 * Gras : ``**texte**``<br>
 * Italique : ``*texte*``<br>
-            `_texte_`<br>
+      ou      `_texte_`<br>
 * Gras & italique : ``***texte***``<br>
 * Souligné : `__texte__`<br>
 * Italique & souligné : `__*texte*__`
@@ -25,4 +25,10 @@ __**Mise en forme :**__<br>
 
 <br>
 
+**Liens :**
+<br>
+
+Il y a 2 façons de faire : 
+* Soit en écrivant directement le lien en ayant pour nom l'url. *Ex :* http://github.com 
+* Soit en donnant un nom au lien `[nom du lien]` qui, en cliquant dessus, vous dirigera vers l'url `(url)`. *Ex :* `[Github](http://github.com)`qui donne [Github](http://github.com)
 
