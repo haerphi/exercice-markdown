@@ -1,6 +1,6 @@
 # Syntaxe markdown
 
-Pour écrire du code en Markdown avec une coloration syntaxique il faut le code entre avec le nom du langage.
+Pour écrire du code en Markdown avec une coloration syntaxique il faut le code entre avec le nom du langage. <br>
 Exemple: <br>
 Pour faire ce ci:
 ```javascript
