@@ -52,3 +52,5 @@ Pour les deux premiers niveaux de titre (`<h1>` et `<h2>`), il est également po
 Pour créer des liens (balise HTML `<a>`) :
 
 `[texte du lien](url_du_lien "texte pour le titre, facultatif")`
+## Code
+Pour écrire du code en Markdown avec une coloration syntaxique il faut le code entre <code>```</code> avec le nom du langage. <br>
