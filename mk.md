@@ -59,6 +59,6 @@ Pour écrire du code en Markdown avec une coloration syntaxique il faut mettre l
 
 
 ### Réferences
-
+* [readme.md](readme.md)
 * [mk.md](mk.md)
 * [syntaxe.md](syntaxe.md)
