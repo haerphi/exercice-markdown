@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 # Syntaxe markdown  
 
 Syntaxe à utiliser afin d'ajouter une image:  
@@ -53,7 +52,6 @@ On imbrique des listes en les precedent par une identation propre a chaque liste
     - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
     - [x] list syntax required (any unordered or ordered list supported)
 * Item 3
-=======
 ## Titres :
 <br>
 
@@ -85,5 +83,4 @@ et ainsi de suite jusqu'à arriver au `<h6>` : `###### Titre`.
 Il y a 2 façons de faire : 
 * Soit en écrivant directement le lien en ayant pour nom l'url. *Ex :* http://github.com 
 * Soit en donnant un nom au lien `[nom du lien]` qui, en cliquant dessus, vous dirigera vers l'url `(url)`;`[Github](http://github.com)`. *Ex :* [Github](http://github.com)
->>>>>>> Cyn
 
