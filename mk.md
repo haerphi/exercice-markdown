@@ -30,8 +30,10 @@ Les listes ordonnées sont définies par une case a coché devant chaque items l
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-## Tables
-You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |:
+## Les tables
+Vous pouvez créer des tableaux en assemblant
+  * une liste de mots et en les divisant avec des tirets.- (pour la première ligne),
+  * puis en séparant chaque colonne par un tuyau |:
 
 First Header | Second Header
 ------------ | -------------
