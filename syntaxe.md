@@ -43,7 +43,9 @@ On imbrique des listes en les précédant par une indentation propre à chaque l
   1. Item 3
     - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
     - [x] list syntax required (any unordered or ordered list supported)
-* Item 3
+* Item 3  
+
+## Images  
 
 Syntaxe à utiliser afin d'ajouter une image:  
 
