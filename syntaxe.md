@@ -11,6 +11,7 @@ function fancyAlert(arg) {
 }
 ```
 Il faut faire cela:
+
     ```javascript
         function fancyAlert(arg) {
             if(arg) {
