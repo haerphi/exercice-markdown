@@ -5,15 +5,20 @@ Une liste est un ensemble fini d'éléments énumérés de manière séquentiell
 ## Non ordonnées
 
 Les listes non ordonnées sont définies par une puces devant chaque items.
+En markdown, on précéde chaque items par un asterisque "`*`".
+
 
 * Item 1
 * Item 2
   * Item 2a
   * Item 2b
+* Item 3
 
 ## Ordonées
 
 Les listes ordonnées sont définies par un nombre devant chaque items lui assignant un ordre.
+En markdown, on précéde chaque items par un "`1.`".
+Pour imbriquer des listes, on idente la seconde liste dans la première.  
 
 1. Item 1
 1. Item 2
