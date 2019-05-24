@@ -1,3 +1,3 @@
 # Syntaxe markdown
 
-pour mettre un tuc en **gras** 
+Pour écrire du code en Markdown il faut le code entre ```\`\`\````
