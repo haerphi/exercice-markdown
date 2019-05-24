@@ -2,6 +2,7 @@
 
 Pour écrire du code en Markdown avec une coloration syntaxique il faut le code entre avec le nom du langage.
 Exemple: <br>
+Pour faire ce ci:
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
@@ -9,7 +10,7 @@ function fancyAlert(arg) {
   }
 }
 ```
-
+Il faut faire cela:
     ```javascript
         function fancyAlert(arg) {
             if(arg) {
