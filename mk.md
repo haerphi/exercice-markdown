@@ -49,13 +49,3 @@ en markdown, on imbrique des listes en les precedent par une identation propre a
     - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
     - [x] list syntax required (any unordered or ordered list supported)
 * Item 3
-
-## Les tables
-Vous pouvez créer des tableaux en assemblant
-  * une liste de mots et en les divisant avec des tirets.- (pour la première ligne),
-  * puis en séparant chaque colonne par un tuyau |:
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
