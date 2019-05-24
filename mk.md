@@ -55,4 +55,4 @@ Pensez-vous qu'il soit impossible d'inclure une image animée dans un fichier ?
 En clair, à l'aide d'url, vous pouvez tout autant ajouter des images statiques ou animées dans votre fichier en utilisant le MarkDown.  
 
 ## Code
-Pour écrire du code en Markdown avec une coloration syntaxique il faut le code entre <code>```</code> avec le nom du langage. <br>
+Pour écrire du code en Markdown avec une coloration syntaxique il faut mettre le code entre deux accents graves (<code>``</code>) avec le nom du langage. <br>
