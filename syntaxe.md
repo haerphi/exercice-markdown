@@ -12,10 +12,9 @@ Exemple: <br>
 <br>
 Donne:
 <br>
-`javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-`
+javascript
+    function fancyAlert(arg) {
+        if(arg) {
+            $.facebox({div:'#foo'})
+        }
+    }
