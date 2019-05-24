@@ -18,10 +18,10 @@
   * Listes
     * Liste à puces
     * Liste numérotée
+    * Listes imbriquées
   * Images
     * Image statique
     * Image animée
-    * Listes imbriquées
   * Liens
   * Code
 * syntaxe.md  
