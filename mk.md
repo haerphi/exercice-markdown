@@ -1,4 +1,41 @@
-# Les images  
+
+## Titres :
+
+Les titres sont créés avec un certain nombre de # avant le titre, qui correspondent au niveau de titre souhaité (le HTML propose 6 niveaux de titres de `<h1>` à `<h6>`).
+<br>
+# un titre de premier niveau
+#### un titre de quatrième niveau
+<br>
+
+Pour les deux premiers niveaux de titre (`<h1>` et `<h2>`), il est également possible de souligner le titre avec des = ou des - (leur nombre réel importe peu, mais il doit être supérieur à 2).  
+
+## Les listes
+
+Une liste est un ensemble fini d'éléments énumérés de manière séquentielle (les uns après les autres) dans un ordre signifiant ou sans ordre précis. C'est une manière simple et pratique d'organiser la pensée, souvent sous une forme matérielle écrite ou informatique. Umberto Eco distingue les listes pratiques (à la fonction référentielle) des listes poétiques (à la fonction de vertige grisant). Selon lui, les énumérations exhubérantes ont commencées à la Renaissance et se prolongent de nos jours dans les bibliothèques, « réceptacles » de listes. 1
+
+### Non ordonnées
+
+Les listes non ordonnées sont définies par une puce devant chaque items.
+
+### Ordonées
+
+Les listes ordonnées sont définies par un nombre devant chaque items lui assignant un ordre.
+
+### Les liste de tâches.
+
+Les listes ordonnées sont définies par une case à cocher devant chaque items lui assignant une tâche effectuée ou non.
+
+### Imbrication
+
+Il est tout a fait possible d'imbriquer les différents types de listes.
+
+### Liens :
+<br>
+Pour créer des liens (balise HTML `<a>`) :
+
+`[texte du lien](url_du_lien "texte pour le titre, facultatif")`  
+
+## Les images  
 
 En utilisant le MarkDown, nous avons également la possibilité d'ajouter des images dans notre document.  
 
@@ -15,3 +52,6 @@ Pensez-vous qu'il soit impossible d'inclure une image animée dans un fichier ?
 ![Nope](https://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)  
 
 En clair, à l'aide d'url, vous pouvez tout autant ajouter des images statiques ou animées dans votre fichier en utilisant le MarkDown.  
+
+## Code
+Pour écrire du code en Markdown avec une coloration syntaxique il faut le code entre <code>```</code> avec le nom du langage. <br>
